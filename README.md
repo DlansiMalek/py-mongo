@@ -1,6 +1,6 @@
 # py-mongo
 
-make sure you have python3
+make sure you have python3 \n
 pip install virtualenv
 run virtualenv venv
 run "source venv/scripts/activate" if you are on windows.
